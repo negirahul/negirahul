@@ -40,7 +40,7 @@ tbody td {
                 <div class="">
                     <form action="{{ route('super-admin.assessment-status.savepartone') }}" method="post" id="claim-form" enctype="multipart/form-data">
                     @csrf
-                    <table class="table table-bordered mb-0">
+                    <table class="table table-bordered mb-0 bg-black">
                         {{-- First Row --}}
                         <tr>
                             <td colspan="6" class="text-center">

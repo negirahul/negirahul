@@ -48,7 +48,7 @@ tbody td {
 </head>
 <body>
 <div class="row">
-    <table class="table table-bordered mb-0">
+    <table class="table table-bordered mb-0 bg-black">
         {{-- First Row --}}
         <tr>
             <td colspan="6" class="text-center">

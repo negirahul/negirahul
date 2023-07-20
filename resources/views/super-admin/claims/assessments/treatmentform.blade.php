@@ -44,7 +44,7 @@ tbody td {
                     {{-- {{phpinfo()}} --}}
                     <form action="{{ route('super-admin.assessment-status.saveparttwo') }}" method="post" id="claim-form" enctype="multipart/form-data">
                     @csrf
-                    <table class="table table-bordered mb-0">
+                    <table class="table table-bordered mb-0 bg-black">
                         {{-- First Row --}}
                         <tr>
                             <td colspan="6" class="text-center">
