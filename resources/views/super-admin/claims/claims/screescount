@@ -1,0 +1,45 @@
+Hms to claimstack Intigration : 20000 (2 server setup included)
+
+1. pushing data of hospital from hms to claim stack
+	a. coding in hms
+	b. api in claimstack 
+2. pushing data of paitents from hms to claim stack
+	a. coding in hms
+	b. api in claimstack 
+3. login in claimstack from hms
+
+Module Creation of Hospital Empanelment Status
+1. Create
+2. Edit
+3. Delete
+4. Manage
+5. Changes 1 screen
+
+Hospital Empanelment Status
+1. Create
+2. Edit
+3. Delete
+4. Manage
+5. Chnages 1 screen
+
+Super Admin Claims chanages
+
+1. Manage Claims 
+2. Create Claimant
+3. Edit Claimant
+4. Create Borrower
+5. Edit Borrower
+6. Create Assessment Status
+7. Edit Assessment Status
+8. Create Discharge Status
+9. Edit Discharge Status
+10. Create Claim Processing
+11. Edit Claim Processing
+12. Manage Borrowers
+13. Edit Borrower
+14. Lending Status
+
+Edit Paitient document screen : 3000(2 screens more than 30 fields)
+View Documents screen : 5000
+
+20000(hms)+(5000+3000(6 screens))+36000(1500*24 screens) = 64000

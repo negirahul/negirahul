@@ -1,0 +1,124 @@
+body{
+    background-color:#fff;
+}
+.invalid-feedback {
+    display: block;
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: .75rem;
+    color: #ff5b5b;
+}
+@media (min-width: 992px){
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0.7rem;
+        padding-left: 0.7rem;
+    }
+}
+.light-shadow {  
+    box-shadow: 0 0 13px 0 rgb(154 161 171 / 49%) !important;
+}
+.content{
+    margin-top: 77.56px;
+}
+.banner {
+    background-color: #E9FAFF !important;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #3E4097;
+    font-weight: 700;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #3E4097;
+    font-weight: 700;
+}
+.btn-primary {
+    background-color: #3E4097;
+    border-color: #3E4097;
+    color:#fff;
+    font-weight: 700;
+}
+.bg-primary {
+    background-color: #3E4097 !important;
+    color:#fff;
+}
+
+.btn-outline-light {
+    color: #3E4097;
+    background-color: #fff;
+    border-color: #3E4097;
+}
+.bg-light {
+    background-color: #E9FAFF !important;
+}
+.text-primary {
+    color: #3E4097  !important;
+}
+
+.text-danger {
+    color: #EB3239  !important;
+}
+.banner-heading {
+    font-size: 54px;
+    font-weight: 800;
+    font-family: 'Inter', sans-serif !important;
+}
+.banner-subheading {
+    font-size: 40px;
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 800;
+}
+  
+.section-two-bg {
+    opacity: 0.2;
+    height: auto;
+    width: 228px;
+}
+
+.bg-dark-primary{
+    background-color: #36387E;
+}
+.bg-grey{
+    background-color: #F4F4F4;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+     border-radius: 10px;
+}
+
+.account-type {
+    background: rgb(2,0,36);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    border-radius: 10px;
+    height: 127px;
+    background: linear-gradient(0deg, rgb(21 18 60 / 82%) 1%, rgba(62,64,149,1) 33%, rgb(0 212 255) 100%);
+}
+.coming-soon {
+    position: relative;
+    text-align: center;
+    color: #36387E;
+    top: -131px;   
+}
+
+
+.hospital-dashboard {
+    position: absolute;
+    width: 853px;
+    height: 463px;
+    left: 294px;
+    top: 235px;
+    background: #FFFFFF;
+    border: 2px solid rgba(253, 226, 157, 0.3);
+    box-shadow: inset 0px 2px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+
+/* ershad alam */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600&family=Open+Sans:wght@300&display=swap');
+
+
+body{
+  font-family: 'Inter', sans-serif !important;
+  color: #000 !important;
+}
